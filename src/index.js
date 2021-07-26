@@ -36,7 +36,7 @@ const createHeader = (() => {
 
     const header = document.createElement('header');
     const restaurantNameHeading = document.createElement('h1');
-    restaurantNameHeading.textContent = 'RESTAURANT NAME';
+    restaurantNameHeading.textContent = 'Candlehearth Hall';
 
     header.appendChild(restaurantNameHeading);
 

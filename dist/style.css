@@ -18,3 +18,9 @@ li {
 li:hover {
     background-color: darkseagreen;
 }
+
+#menu-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
