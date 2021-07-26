@@ -1,0 +1,20 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aliceblue;
+}
+
+ul {
+    display: flex;
+}
+li {
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    list-style-type: none;
+}
+li:hover {
+    background-color: darkseagreen;
+}
